@@ -24,4 +24,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
