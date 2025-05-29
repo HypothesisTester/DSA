@@ -67,4 +67,9 @@ class MyLinkedList:
             nxt.prev = prev
 
 
-# Time: O(1), Space: O(1)
+# Time complexity:
+#O(1) time for initialization.
+#O(1) time for addAtHead() and addAtTail().
+#O(n) time for get(), addAtIndex() and deleteAtIndex().
+
+#Space complexity: O(n)
