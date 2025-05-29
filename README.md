@@ -27,9 +27,14 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
