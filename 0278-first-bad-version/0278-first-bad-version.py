@@ -13,4 +13,7 @@ class Solution:
                 l = mid + 1           # good → first bad is > mid
         
         return r                      # l == r == first bad
+
+# Time: O(log n)
+# Space: O(1)
         
