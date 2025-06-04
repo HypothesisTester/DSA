@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
