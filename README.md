@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +155,7 @@ A collection of LeetCode questions
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
