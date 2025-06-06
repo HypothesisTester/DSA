@@ -38,6 +38,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HypothesisTester/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HypothesisTester/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 ## Breadth-First Search
