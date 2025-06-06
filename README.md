@@ -6,6 +6,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/HypothesisTester/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 ## Breadth-First Search
 |  |
