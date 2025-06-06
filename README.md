@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions
 | [0094-binary-tree-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Hash Table
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/HypothesisTester/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +215,8 @@ A collection of LeetCode questions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
