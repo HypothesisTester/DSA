@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions
 | ------- |
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 ## Breadth-First Search
 |  |
 | ------- |
