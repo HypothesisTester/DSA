@@ -89,11 +89,13 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
