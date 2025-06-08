@@ -190,6 +190,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -206,6 +207,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -235,4 +237,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
