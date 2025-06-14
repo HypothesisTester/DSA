@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions
 | [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HypothesisTester/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
