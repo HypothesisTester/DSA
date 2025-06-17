@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HypothesisTester/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Greedy
 |  |
 | ------- |
