@@ -11,7 +11,7 @@ class Solution:
 
         while fast and fast.next:
             slow = slow.next
-            fast = fast.next.next
+            fast = fast.next.next   # order matters: advance slow before fast
         return slow
 
 
