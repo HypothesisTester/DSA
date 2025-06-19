@@ -1,4 +1,5 @@
 # Solution: Fast & Slow Pointers
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         slow, fast = head, head
