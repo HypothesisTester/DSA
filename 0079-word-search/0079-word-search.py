@@ -33,17 +33,5 @@ class Solution:
 # Time: O(rows * cols * 4^L) worst-case, L = len(word)
 # Space: O(L) recursion depth
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Note: Solution assumes you can overwrite board, if interviewer says you can't do this, you're going to need to maintain a visited set and use that to check whether or not you've been somewhere before, by maintaining tuple pairs of rows and columns to indicate whether or not you've been somewhere. You will have to undo the visited set so you're going to have to pop elements as you bubble up the recursion to ensure subsequent dfs's from a different start pos don't have that visited state.
         
