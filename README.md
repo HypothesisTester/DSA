@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/HypothesisTester/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HypothesisTester/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions
 | [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -355,4 +359,5 @@ A collection of LeetCode questions
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
