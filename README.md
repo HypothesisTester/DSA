@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 ## Breadth-First Search
 |  |
@@ -289,6 +294,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -322,6 +328,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 ## Combinatorics
 |  |
 | ------- |
