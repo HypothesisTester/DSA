@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HypothesisTester/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/HypothesisTester/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
