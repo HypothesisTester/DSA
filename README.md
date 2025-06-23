@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HypothesisTester/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions
 | [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HypothesisTester/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HypothesisTester/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HypothesisTester/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/HypothesisTester/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
