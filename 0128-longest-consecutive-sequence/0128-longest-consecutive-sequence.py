@@ -1,3 +1,26 @@
+# Solution 1: Hash Set (Optimal)
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        s = set(nums)
+        longest = 0
+        # iterate unique numbers only to avoid re-scanning duplicates
+        for num in s:
+             # start a new sequence if num-1 isn't present
+            if num - 1 not in s:
+                length = 1
+                next_num = num + 1
+                 # count upwards while consecutive
+                while next_num in s:
+                    length += 1
+                    next_num += 1
+                longest = max(longest, length)
+        return longest
+
+# Time: O(n)
+# Space: O(n)
+
+"""
+# Solution 2: Union Find
 from typing import List
 
 class Solution:
@@ -40,4 +63,7 @@ class Solution:
                 union(i, idx[num + 1])
 
         return maxlen  
-        # Time: O(n α(n)), Space: O(n)
+
+# Time: O(n α(n))
+# Space: O(n)
+"""
