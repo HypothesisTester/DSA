@@ -78,6 +78,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HypothesisTester/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HypothesisTester/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/HypothesisTester/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HypothesisTester/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
