@@ -23,6 +23,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HypothesisTester/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/HypothesisTester/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HypothesisTester/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
