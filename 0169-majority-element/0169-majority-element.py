@@ -1,4 +1,18 @@
+# Solution 1: Boyer-Moore Voting algorithim
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        res, count = 0, 0
+        for n in nums:
+            if count == 0:
+                res = n
+            count += (1 if n == res else -1)
+        # res is guaranteed to be the majority
+        return res
 
+
+# Time: O(N)
+# Space: O(1)
+"""
 # Solution 2: Hash Map
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
@@ -13,4 +27,7 @@ class Solution:
                 res = n
 
         return res
-        
+
+# Time: O(N)
+# Space: O(N)
+"""
