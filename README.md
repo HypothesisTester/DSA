@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
