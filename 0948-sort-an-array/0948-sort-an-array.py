@@ -1,3 +1,4 @@
+# Solution: Merge Sort
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         def merge(arr, L, M, R):
@@ -11,25 +12,31 @@ class Solution:
                 else:
                     arr[i] = right[k]
                     k += 1
-                i += 1
+                i += 1  # Advance to next position in arr
+                
+            # Copy remaining elements from left, if any
             while j < len(left):
                 nums[i] = left[j]
                 j += 1
                 i += 1
+            # Copy remaining elements from right, if any
             while k < len(right):
                 nums[i] = right[k]
                 k += 1
                 i += 1
         
         def mergeSort(arr, l, r):
-            if l == r:
-                return
+            # Base case: single element
+            if l == r:  
+                return arr
 
             m = (l + r) // 2
             mergeSort(arr, l, m)
             mergeSort(arr, m + 1, r)
             merge(arr, l, m, r)
-            return
+            return arr
         
-        mergeSort(nums, 0, len(nums))
-        return nums
+        return mergeSort(nums, 0, len(nums))
+
+# Time Complexity: O(n log n) - Divides array in half log n times, merges n elements per level
+# Space Complexity: O(n) - Temporary arrays in merge function
