@@ -11,3 +11,6 @@ class Solution:
                 return i
         
         return -1
+
+# Time: O(V + E)
+# Space: O(V)
