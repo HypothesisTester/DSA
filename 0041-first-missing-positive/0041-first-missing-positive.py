@@ -3,7 +3,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] < 0:
                 nums[i] = 0
-
+            
         for i in range(len(nums)):
             val = abs(nums[i])
             if 1 <= val <= len(nums):
@@ -17,3 +17,6 @@ class Solution:
                 return i
 
         return len(nums) + 1
+
+# Time: O(N)
+# Space: O(1)
