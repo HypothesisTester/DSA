@@ -31,3 +31,11 @@ class Solution:
             for c in range(COLS):
                 if board[r][c] == "T":
                     board[r][c] = "O"
+
+# Time Complexity: O(m × n)
+        # - Step 1: O(m × n) for iteration + DFS
+        # - Step 2: O(m × n) for iteration
+        # - Step 3: O(m × n) for iteration
+# Overall Space Complexity: O(m × n)
+        # - Due to DFS recursion stack in Step 1
+        # - Other steps use O(1) extra space
