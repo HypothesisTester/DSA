@@ -49,6 +49,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HypothesisTester/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
