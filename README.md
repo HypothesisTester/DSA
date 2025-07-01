@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Array
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HypothesisTester/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
