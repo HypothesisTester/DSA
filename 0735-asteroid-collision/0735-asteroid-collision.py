@@ -3,7 +3,7 @@ class Solution:
         stack = []
 
         for a in asteroids:
-            while stack and a < 0 and stack[-1] > 0:
+            while stack and a < 0 and stack[-1] > 0: # Collision: left vs right
                 diff = a + stack[-1]
                 if diff < 0:
                     stack.pop()
@@ -14,7 +14,6 @@ class Solution:
                     stack.pop()
             if a:    
                 stack.append(a)    # no collision or survived all
-
 
         return stack
 
