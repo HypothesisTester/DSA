@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0014-longest-common-prefix](https://github.com/HypothesisTester/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/HypothesisTester/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/HypothesisTester/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HypothesisTester/DSA/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/HypothesisTester/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
