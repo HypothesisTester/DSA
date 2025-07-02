@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
