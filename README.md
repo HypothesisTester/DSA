@@ -105,6 +105,7 @@ A collection of LeetCode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HypothesisTester/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HypothesisTester/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
