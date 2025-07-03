@@ -131,6 +131,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -261,6 +263,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
@@ -469,6 +472,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/HypothesisTester/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HypothesisTester/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
