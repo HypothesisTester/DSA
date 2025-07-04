@@ -85,6 +85,7 @@ A collection of LeetCode questions
 | [0018-4sum](https://github.com/HypothesisTester/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/HypothesisTester/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/HypothesisTester/DSA/tree/master/0041-first-missing-positive) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/HypothesisTester/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
