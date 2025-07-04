@@ -23,5 +23,5 @@ class Solution:
 
         return False
         
-# Time: O(log N) avg , worst case O(N) 
+# Time: O(log N) average, worst case O(N) 
 # Space: O(1)
