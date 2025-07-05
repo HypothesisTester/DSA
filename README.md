@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
+| [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 ## Array
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions
 | [0374-guess-number-higher-or-lower](https://github.com/HypothesisTester/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
 ## Breadth-First Search
 |  |
