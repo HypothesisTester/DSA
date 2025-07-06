@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/HypothesisTester/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions
 | ------- |
 | [0278-first-bad-version](https://github.com/HypothesisTester/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/HypothesisTester/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 ## Tree
 |  |
 | ------- |
