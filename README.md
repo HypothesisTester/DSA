@@ -125,6 +125,7 @@ A collection of LeetCode questions
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HypothesisTester/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 ## Memoization
@@ -288,6 +290,7 @@ A collection of LeetCode questions
 | [0278-first-bad-version](https://github.com/HypothesisTester/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HypothesisTester/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/HypothesisTester/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 ## Greedy
@@ -487,6 +491,7 @@ A collection of LeetCode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/HypothesisTester/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HypothesisTester/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 ## Monotonic Stack
