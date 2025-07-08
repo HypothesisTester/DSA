@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
 ## String
@@ -52,6 +54,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/HypothesisTester/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HypothesisTester/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/HypothesisTester/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
