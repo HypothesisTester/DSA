@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
+| [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
@@ -547,4 +550,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
