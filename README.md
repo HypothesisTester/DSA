@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Math
