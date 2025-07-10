@@ -20,7 +20,7 @@ class Solution:
             cur.next = prev
             prev, cur = cur, tmpNext
 
-        # 3) Update points
+        # 3) Update pointers
         leftPrev.next.next = cur # cur is node after "right"
         leftPrev.next = prev # prev is "right"
         return dummy.next
