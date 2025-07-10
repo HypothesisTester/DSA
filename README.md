@@ -6,6 +6,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/HypothesisTester/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions
 | [0076-minimum-window-substring](https://github.com/HypothesisTester/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/HypothesisTester/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HypothesisTester/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HypothesisTester/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HypothesisTester/DSA/tree/master/0146-lru-cache) |
