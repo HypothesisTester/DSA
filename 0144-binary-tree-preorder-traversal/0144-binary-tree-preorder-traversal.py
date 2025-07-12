@@ -16,4 +16,6 @@ class Solution:
             else:
                 cur = stack.pop()
         return res
-        
+
+# Time: O(N)
+# Space: O(N)
