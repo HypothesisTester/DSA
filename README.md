@@ -64,6 +64,7 @@ A collection of LeetCode questions
 | [0071-simplify-path](https://github.com/HypothesisTester/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HypothesisTester/DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HypothesisTester/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/HypothesisTester/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/HypothesisTester/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions
 | [0094-binary-tree-inorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/HypothesisTester/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/HypothesisTester/DSA/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HypothesisTester/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HypothesisTester/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
