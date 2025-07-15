@@ -13,23 +13,21 @@ class Node:
 class Solution:
     def construct(self, grid: List[List[int]]) -> 'Node':
         def dfs(n, r, c):
-            if n == 1:
-                return Node(grid[r][c] == 1, True)
-
-            mid = n // 2
-            topLeft = dfs(mid, r, c)
-            topRight = dfs(mid, r, c + mid)
-            bottomLeft = dfs(mid, r + mid, c)
-            bottomRight = dfs(mid, r + mid, c + mid)
-
-            if (topLeft.isLeaf and topRight.isLeaf and 
-                bottomLeft.isLeaf and bottomRight.isLeaf and
-                topLeft.val == topRight.val == bottomLeft.val == bottomRight.val):
-                return Node(topLeft.val, True)
-
-            return Node(False, False, topLeft, topRight, bottomLeft, bottomRight)
-
+            allSame = True
+            for i in range(n):
+                for j in range(n):
+                    if grid[r][c] != grid[r + i][c + j]:
+                        allSame = False
+                        break
+            if allSame:
+                return Node(grid[r][c], True)
+            
+            n = n // 2
+            topleft = dfs(n, r, c)
+            topright = dfs(n, r, c + n)
+            bottomleft = dfs(n, r + n, c)
+            bottomright = dfs(n, r + n, c + n)
+            
+            return Node(0, False, topleft, topright, bottomleft, bottomright)
+        
         return dfs(len(grid), 0, 0)
-
-# Time: O(N^2)
-# Space: O(N log N)
