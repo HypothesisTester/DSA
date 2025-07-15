@@ -156,6 +156,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions
 | [0191-number-of-1-bits](https://github.com/HypothesisTester/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Interactive
@@ -370,6 +373,7 @@ A collection of LeetCode questions
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HypothesisTester/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
