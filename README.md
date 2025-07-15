@@ -136,6 +136,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/HypothesisTester/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HypothesisTester/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/HypothesisTester/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HypothesisTester/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HypothesisTester/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HypothesisTester/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/HypothesisTester/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
