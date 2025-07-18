@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/HypothesisTester/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions
 | [0460-lfu-cache](https://github.com/HypothesisTester/DSA/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/HypothesisTester/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HypothesisTester/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 ## Monotonic Stack
@@ -618,6 +623,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/HypothesisTester/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HypothesisTester/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 ## Radix Sort
 |  |
 | ------- |
