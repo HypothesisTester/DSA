@@ -25,5 +25,5 @@ class Solution:
                 heapq.heappush(maxHeap, (count, char))     
         return res
 
-# Time: O(a + b + c) — each character appended once, heap ops are O(1)
+# Time: O(N) — each character appended once, heap ops are O(1)
 # Space: O(1) — heap holds at most 3 elements, result string excluded
