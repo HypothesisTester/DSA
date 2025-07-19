@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
+| [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/HypothesisTester/DSA/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 | [1962-single-threaded-cpu](https://github.com/HypothesisTester/DSA/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -609,6 +611,7 @@ A collection of LeetCode questions
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
+| [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 ## Monotonic Stack
 |  |
 | ------- |
