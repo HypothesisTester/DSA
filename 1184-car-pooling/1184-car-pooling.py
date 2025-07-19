@@ -2,8 +2,7 @@ class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         trips.sort(key = lambda t: t[1])
 
-        minHeap = []
-        # pair of [end, numPassangers]
+        minHeap = [] # pair of [end, numPassangers]
         curPass = 0
         for t in trips:
             numPass, start, end = t
@@ -16,3 +15,6 @@ class Solution:
                 return False
             heapq.heappush(minHeap, [end, numPass])
         return True
+
+# Time: O(N Log N)
+# Space: O(N)
