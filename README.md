@@ -89,6 +89,7 @@ A collection of LeetCode questions
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HypothesisTester/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HypothesisTester/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/HypothesisTester/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HypothesisTester/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
