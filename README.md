@@ -545,6 +545,7 @@ A collection of LeetCode questions
 | ------- |
 | [0039-combination-sum](https://github.com/HypothesisTester/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HypothesisTester/DSA/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/HypothesisTester/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HypothesisTester/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HypothesisTester/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
