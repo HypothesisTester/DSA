@@ -1,20 +1,18 @@
 # Solution: Backtracking
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        res = []
+        result, sol = [], []
+       
+        def backtrack(i):
+            if len(sol) == k:
+                result.append(sol[:])
+                return 
+            for num in range(i, n + 1):
+                sol.append(num) # choose
+                backtrack(num+1) # recurse
+                sol.pop() # un-choose
+        backtrack(1)
+        return result
 
-        def backtrack(start, comb):
-            if len(comb) == k:
-                res.append(comb.copy())
-                return
-
-            for i in range(start, n + 1):
-                comb.append(i)
-                backtrack(i + 1, comb)
-                comb.pop()
-
-        backtrack(1, [])
-        return res
-
-# Time: K(N^K)
-# Space: K(N^K)
+# Time: O(N choose K)
+# Space: O(N)
