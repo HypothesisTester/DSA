@@ -166,6 +166,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
@@ -279,12 +280,14 @@ A collection of LeetCode questions
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/HypothesisTester/DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -576,6 +580,7 @@ A collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Geometry
 |  |
@@ -708,4 +713,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
