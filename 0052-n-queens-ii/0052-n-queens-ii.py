@@ -4,13 +4,13 @@ class Solution:
         posDiag = set() # (r + c)
         negDiag = set() # (r - c)
 
-        res = []
+        count = 0
         board = [["."] * n for i in range(n)] # dot means empty location
 
         def backtrack(r):
             if r == n:
-                copy = ["".join(row) for row in board]
-                res.append(copy)
+                nonlocal count 
+                count += 1
                 return
 
             for c in range(n):
@@ -30,7 +30,7 @@ class Solution:
                 board[r][c] = "."  
 
         backtrack(0)
-        return len(res)
+        return count
 
 # Time: O(N!)
-# Space: O(N^2)
+# Space: O(N)
