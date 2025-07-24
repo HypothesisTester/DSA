@@ -25,5 +25,5 @@ class Solution:
 
         return dfs(s)
 
-# Time: O(2^n · n)
-# Space: O(2^n · n)
+# Time: O(2^n + n^2)
+# Space: O(2^n + n^2)
