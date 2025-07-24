@@ -25,5 +25,5 @@ class Solution:
 
         return dfs(s)
 
-# Time Complexity: O(N³) in the worst case (substring work + combining results)
-# Space Complexity: O(N³) due to memo storing lists of sentences and recursion dept
+# Time: O(2^n · n)
+# Space: O(2^n · n)
