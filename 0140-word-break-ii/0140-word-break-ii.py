@@ -2,26 +2,28 @@ class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
         memo = {}
 
-        def dfs(string: str) -> List[str]:
+        def dfs(string):
             if string in memo:
                 return memo[string]
 
             if not string:
-                return [""]                       # one empty way to finish
-
+                return [""] # one empty way to finish
+            
             local_res = []
+
             for word in wordDict:
                 if string.startswith(word):
-                    remainder = string[len(word):]
-                    sub_sentences = dfs(remainder)
+                    sub_words = dfs(string[len(word):])
 
-                    for sub in sub_sentences:
-                        # only add a space if there *is* a remainder
-                        sep = " " if sub else ""
-                        local_res.append(word + sep + sub)
+                    for sub_word in sub_words:
+                         # only add a space if there *is* a remainder
+                        local_res.append(word + (" " if sub_word else "") + sub_word)
 
             memo[string] = local_res
+
             return local_res
 
-        # pass s into dfs:
         return dfs(s)
+
+# Time Complexity: O(N³) in the worst case (substring work + combining results)
+# Space Complexity: O(N³) due to memo storing lists of sentences and recursion dept
