@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
+| [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions
 | [1962-single-threaded-cpu](https://github.com/HypothesisTester/DSA/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
+| [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
+| [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
+| [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -682,6 +686,7 @@ A collection of LeetCode questions
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
