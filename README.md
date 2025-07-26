@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
+| [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
