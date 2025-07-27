@@ -43,3 +43,6 @@ class Solution:
         black.add(course)
 
         return True
+
+# Time: O(V + E), V = vertices in graph, E = number of connections
+# Space: O(V)
