@@ -1,3 +1,4 @@
+# Solution: Greedy (two queues)
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         senate = list(senate)
