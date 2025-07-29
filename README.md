@@ -208,6 +208,7 @@ A collection of LeetCode questions
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/HypothesisTester/DSA/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/HypothesisTester/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
@@ -699,6 +700,7 @@ A collection of LeetCode questions
 | [0890-lemonade-change](https://github.com/HypothesisTester/DSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/HypothesisTester/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
