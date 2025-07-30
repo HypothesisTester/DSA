@@ -15,6 +15,5 @@ class Solution:
         res.append(newInterval)
         return res
 
-
 # Time Complexity: O(n) – single linear scan through intervals  
 # Space Complexity: O(n) – worst-case storing all intervals in `res`
