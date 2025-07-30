@@ -59,6 +59,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/HypothesisTester/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/HypothesisTester/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/HypothesisTester/DSA/tree/master/0890-lemonade-change) |
