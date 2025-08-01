@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/HypothesisTester/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/HypothesisTester/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/HypothesisTester/DSA/tree/master/0140-word-break-ii) |
+| [0168-excel-sheet-column-title](https://github.com/HypothesisTester/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions
 | [0069-sqrtx](https://github.com/HypothesisTester/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HypothesisTester/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/HypothesisTester/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
