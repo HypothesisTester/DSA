@@ -198,6 +198,7 @@ A collection of LeetCode questions
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/HypothesisTester/DSA/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
+| [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Interactive
