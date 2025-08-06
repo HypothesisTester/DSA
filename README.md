@@ -115,6 +115,7 @@ A collection of LeetCode questions
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
+| [2139-detect-squares](https://github.com/HypothesisTester/DSA/tree/master/2139-detect-squares) |
 ## Array
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/HypothesisTester/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/HypothesisTester/DSA/tree/master/2058-concatenation-of-array) |
+| [2139-detect-squares](https://github.com/HypothesisTester/DSA/tree/master/2139-detect-squares) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
@@ -594,6 +596,7 @@ A collection of LeetCode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
+| [2139-detect-squares](https://github.com/HypothesisTester/DSA/tree/master/2139-detect-squares) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
@@ -769,6 +772,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
+| [2139-detect-squares](https://github.com/HypothesisTester/DSA/tree/master/2139-detect-squares) |
 ## Radix Sort
 |  |
 | ------- |
