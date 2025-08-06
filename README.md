@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0014-longest-common-prefix](https://github.com/HypothesisTester/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HypothesisTester/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/HypothesisTester/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HypothesisTester/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HypothesisTester/DSA/tree/master/0076-minimum-window-substring) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/HypothesisTester/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/HypothesisTester/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HypothesisTester/DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/HypothesisTester/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/HypothesisTester/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HypothesisTester/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HypothesisTester/DSA/tree/master/0066-plus-one) |
