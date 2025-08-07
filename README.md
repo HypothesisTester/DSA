@@ -199,6 +199,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
+| [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/HypothesisTester/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
