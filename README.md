@@ -311,6 +311,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/HypothesisTester/DSA/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -339,6 +340,7 @@ A collection of LeetCode questions
 | [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
@@ -347,6 +349,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/HypothesisTester/DSA/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
