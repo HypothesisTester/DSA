@@ -185,6 +185,7 @@ A collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions
 | [0140-word-break-ii](https://github.com/HypothesisTester/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HypothesisTester/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HypothesisTester/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
