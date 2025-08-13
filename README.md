@@ -321,6 +321,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HypothesisTester/DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/HypothesisTester/DSA/tree/master/0343-integer-break) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/HypothesisTester/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/HypothesisTester/DSA/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HypothesisTester/DSA/tree/master/0416-partition-equal-subset-sum) |
