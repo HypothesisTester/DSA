@@ -10,3 +10,6 @@ class Solution:
                     break
                 dp[target] = min(dp[target], 1 + dp[target - square])
         return dp[n]
+
+# Time: O(n * sqrt(n))   
+# Space: O(n)
