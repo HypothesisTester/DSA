@@ -320,6 +320,7 @@ A collection of LeetCode questions
 | [0168-excel-sheet-column-title](https://github.com/HypothesisTester/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/HypothesisTester/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HypothesisTester/DSA/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions
 | [0152-maximum-product-subarray](https://github.com/HypothesisTester/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HypothesisTester/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HypothesisTester/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/HypothesisTester/DSA/tree/master/0338-counting-bits) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HypothesisTester/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
