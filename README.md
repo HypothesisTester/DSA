@@ -579,6 +579,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/HypothesisTester/DSA/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/HypothesisTester/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/HypothesisTester/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HypothesisTester/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HypothesisTester/DSA/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/HypothesisTester/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HypothesisTester/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HypothesisTester/DSA/tree/master/0310-minimum-height-trees) |
 ## Monotonic Queue
 |  |
 | ------- |
