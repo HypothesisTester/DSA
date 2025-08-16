@@ -232,6 +232,7 @@ A collection of LeetCode questions
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/HypothesisTester/DSA/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/HypothesisTester/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions
 | [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
+| [1130-last-stone-weight-ii](https://github.com/HypothesisTester/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
