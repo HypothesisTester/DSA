@@ -234,6 +234,7 @@ A collection of LeetCode questions
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/HypothesisTester/DSA/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/HypothesisTester/DSA/tree/master/1130-last-stone-weight-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HypothesisTester/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 ## Matrix
@@ -766,6 +768,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 ## Prefix Sum
@@ -778,6 +781,7 @@ A collection of LeetCode questions
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 ## Greedy
