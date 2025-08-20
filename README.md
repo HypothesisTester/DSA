@@ -206,6 +206,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/HypothesisTester/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/HypothesisTester/DSA/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HypothesisTester/DSA/tree/master/0621-task-scheduler) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions
 | ------- |
 | [0043-multiply-strings](https://github.com/HypothesisTester/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/HypothesisTester/DSA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HypothesisTester/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
