@@ -221,6 +221,7 @@ A collection of LeetCode questions
 | [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
+| [0777-toeplitz-matrix](https://github.com/HypothesisTester/DSA/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions
 | [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
+| [0777-toeplitz-matrix](https://github.com/HypothesisTester/DSA/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
