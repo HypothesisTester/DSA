@@ -22,7 +22,9 @@ class Solution:
             new_row = cur_row + row_inc
             new_col = cur_col + col_inc
 
-            if (0 <= new_row < len(matrix)) and (0 <= new_col < len(matrix[0])) and matrix[cur_row][cur_col] < matrix[new_row][new_col]:
+             # Check bounds AND the increasing condition.
+            if (0 <= new_row < len(matrix)) and (0 <= new_col < len(matrix[0])) and matrix[cur_row][cur_col] < matrix[new_row][new_col]:       
+                # 1 for current cell + best path from the neighbor.
                 self.memo[(cur_row, cur_col)] = max(self.memo[(cur_row, cur_col)], 1 + self.dfs(matrix, new_row, new_col))
 
         return self.memo[cur_row, cur_col]
