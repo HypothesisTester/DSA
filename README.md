@@ -247,6 +247,7 @@ A collection of LeetCode questions
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/HypothesisTester/DSA/tree/master/1962-single-threaded-cpu) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 ## Prefix Sum
 |  |
@@ -800,6 +802,7 @@ A collection of LeetCode questions
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 ## Greedy
 |  |
