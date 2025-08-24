@@ -31,4 +31,4 @@ class MyCalendar:
 # Time: O(Log N + O(N)) ==> O(N) 
 # Space: O(N)
 
-# Note: Interviewer may ask follow up, how can we improve this? - basically use datastructure where we can insert in log N time, i.e use SortedList in Python which is kind of a linked list behind the scenes
+# Note: Interviewer may ask follow up, how can we improve this? - basically use data structure where we can insert in log N time, i.e use SortedList in Python which is kind of a linked list behind the scenes
