@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/HypothesisTester/DSA/tree/master/0460-lfu-cache) |
+| [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions
 | [0374-guess-number-higher-or-lower](https://github.com/HypothesisTester/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/HypothesisTester/DSA/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 ## String Matching
 |  |
@@ -892,4 +896,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
