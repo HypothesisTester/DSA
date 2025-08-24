@@ -1,3 +1,4 @@
+# Solution: DFS
 class MyCalendar:
 
     def __init__(self):
