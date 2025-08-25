@@ -346,6 +346,7 @@ A collection of LeetCode questions
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/HypothesisTester/DSA/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
