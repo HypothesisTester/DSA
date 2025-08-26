@@ -8,4 +8,4 @@ class Solution:
         return min(diff, 360 - diff)
 
 # Time: O(1)
-# Space: O(1)
+# Space: O(1))
