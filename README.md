@@ -211,6 +211,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/HypothesisTester/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/HypothesisTester/DSA/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/HypothesisTester/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions
 | [0416-partition-equal-subset-sum](https://github.com/HypothesisTester/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HypothesisTester/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/HypothesisTester/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/HypothesisTester/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions
 | [0140-word-break-ii](https://github.com/HypothesisTester/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
