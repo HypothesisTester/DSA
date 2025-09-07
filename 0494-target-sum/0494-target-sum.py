@@ -1,8 +1,8 @@
 # Solution 1: DP (Bottom  Up)
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        dp = defaultdict(int)
-        dp[0] = 1 # (0 sum) -> 1 way
+        dp = defaultdict(int) #  if a key doesn’t exist, its value is int() which is 0
+        dp[0] = 1 # sum 0 is reachable in exactly 1 way with zero numbers
 
         for num in nums:
             next_dp = defaultdict(int)
@@ -12,6 +12,8 @@ class Solution:
             dp = next_dp
 
         return dp[target]
+
+# Think of dp as “a counter of reachable sums so far”; each number splits every sum into +num and -num, we add up the counts in a fresh map, and at the end we read how many ways hit target
 
 # Time: O(N*SUM OF NUMS)
 # Space: O(SUM OF NUMS)
