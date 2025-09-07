@@ -64,6 +64,7 @@ A collection of LeetCode questions
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/HypothesisTester/DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/HypothesisTester/DSA/tree/master/0649-dota2-senate) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/HypothesisTester/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/HypothesisTester/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/HypothesisTester/DSA/tree/master/0502-ipo) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions
 | [0416-partition-equal-subset-sum](https://github.com/HypothesisTester/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HypothesisTester/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/HypothesisTester/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/HypothesisTester/DSA/tree/master/0678-valid-parenthesis-string) |
