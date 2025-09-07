@@ -1,23 +1,24 @@
 class Solution:
-    def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
-        dp = {}
+    def findMaxForm(self, strs, m, n):
+        counts = [(s.count('0'), s.count('1')) for s in strs]  # List[Tuple[int, int]]
+        dp = {}  # memo: (i, m_left, n_left) -> best size
 
-        def dfs(i, m, n):
+        def dfs(i, m_left, n_left):
             if i == len(strs):
                 return 0
-            if (i, m, n) in dp:
-                return dp[(i, m, n)]
+            key = (i, m_left, n_left)
+            if key in dp:
+                return dp[key]
 
-            mCnt, nCnt = strs[i].count("0"), strs[i].count("1")
+            zeroes, ones = counts[i]  # precomputed counts for strs[i]
+            best = dfs(i + 1, m_left, n_left)  # skip
+            if zeroes <= m_left and ones <= n_left:  # take
+                best = max(best, 1 + dfs(i + 1, m_left - zeroes, n_left - ones))
 
-            dp[(i, m, n)] = dfs(i + 1, m, n)
+            dp[key] = best
+            return best
 
-            if mCnt <= m and nCnt <= n:
-                dp[(i, m, n)] = max(
-                     1 + dfs(i+1, m - mCnt, n - nCnt),
-                    dfs(i, m, n))
-            return dp[(i, m, n)]
+        return dfs(0, m, n)
 
-        return dfs(0, m, n )
-
-        
+# Time:  O(L*M*N) after one-time O(total_chars) precompute for `counts`
+# Space: O(L*M*N) memo + O(L) recursion stack
