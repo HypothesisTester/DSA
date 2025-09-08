@@ -18,3 +18,6 @@ class Solution:
             dp[i] = res
             return res
         return dfs(0)
+
+# Time:  O(n) avg
+# Space: O(n) memo + O(n) recursion stack.
