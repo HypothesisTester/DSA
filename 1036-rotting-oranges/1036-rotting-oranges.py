@@ -1,3 +1,4 @@
+# Solution: BFS
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
          q = deque()
@@ -31,3 +32,6 @@ class Solution:
                     fresh -= 1
             time += 1
          return time if fresh == 0 else -1
+
+# Time:  O(R*C) — each cell is processed at most once.
+# Space: O(R*C) — in the worst case the queue holds many cells.
