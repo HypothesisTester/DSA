@@ -243,6 +243,7 @@ A collection of LeetCode questions
 | [0890-lemonade-change](https://github.com/HypothesisTester/DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions
 | [0227-basic-calculator-ii](https://github.com/HypothesisTester/DSA/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HypothesisTester/DSA/tree/master/0343-integer-break) |
+| [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions
 | [0678-valid-parenthesis-string](https://github.com/HypothesisTester/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/HypothesisTester/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -922,4 +925,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
