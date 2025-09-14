@@ -1,14 +1,3 @@
-# Solution 1: Mathematical
-class Solution:
-    def stoneGame(self, piles: List[int]) -> bool:
-        return True
-
-# Time: O(1) 
-# Space: O(1) 
-
-# Mathematical solution: Alice can either pick every even pile or every odd pile. Sum all even piles != sum of all odd piles. One sum must be greater than the other. Alice will pick the maximum between the two so Alice will always win.
-
-"""
 # Solution 2: DP (Memo)
 class Solution:
     def stoneGame(self, piles: List[int]) -> bool:
@@ -42,4 +31,3 @@ class Solution:
 
 # Time: O(n^2) 
 # Space: O(n^2)
-"""
