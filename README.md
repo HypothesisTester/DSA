@@ -260,6 +260,7 @@ A collection of LeetCode questions
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
+| [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/HypothesisTester/DSA/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions
 | [1130-last-stone-weight-ii](https://github.com/HypothesisTester/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/HypothesisTester/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/HypothesisTester/DSA/tree/master/1250-longest-common-subsequence) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions
 | [0724-find-pivot-index](https://github.com/HypothesisTester/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
+| [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 ## Greedy
@@ -929,4 +933,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
