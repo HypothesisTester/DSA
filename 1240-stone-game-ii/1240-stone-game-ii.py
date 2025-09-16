@@ -1,3 +1,4 @@
+# Solution: DP (Memo)
 class Solution:
     def stoneGameII(self, piles: List[int]) -> int:
         dp = {}
@@ -25,5 +26,6 @@ class Solution:
 
         return dfs(True, 0, 1)
 
-
+# Time: O(n^3) - O(n^2) states × O(n) transitions per state
+# Space : O(n^2) - dp stores O(n^2) entries
         
