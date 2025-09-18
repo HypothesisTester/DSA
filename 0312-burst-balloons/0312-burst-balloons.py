@@ -1,3 +1,4 @@
+# Solution: DP (Memo)
 class Solution:
     def maxCoins(self, nums: List[int]) -> int:
         # Pad with 1's so the edge multiplications are uniform
