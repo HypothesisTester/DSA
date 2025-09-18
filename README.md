@@ -68,6 +68,7 @@ A collection of LeetCode questions
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/HypothesisTester/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/HypothesisTester/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/HypothesisTester/DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/HypothesisTester/DSA/tree/master/0649-dota2-senate) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/HypothesisTester/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HypothesisTester/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/HypothesisTester/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/HypothesisTester/DSA/tree/master/0678-valid-parenthesis-string) |
