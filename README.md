@@ -268,6 +268,7 @@ A collection of LeetCode questions
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/HypothesisTester/DSA/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HypothesisTester/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -427,6 +429,7 @@ A collection of LeetCode questions
 | [1236-n-th-tribonacci-number](https://github.com/HypothesisTester/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/HypothesisTester/DSA/tree/master/1250-longest-common-subsequence) |
+| [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
@@ -946,4 +949,5 @@ A collection of LeetCode questions
 | ------- |
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
