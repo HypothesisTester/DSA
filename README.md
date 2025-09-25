@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/HypothesisTester/DSA/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HypothesisTester/DSA/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions
 | [0746-prefix-and-suffix-search](https://github.com/HypothesisTester/DSA/tree/master/0746-prefix-and-suffix-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HypothesisTester/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HypothesisTester/DSA/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/HypothesisTester/DSA/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions
 | [0777-toeplitz-matrix](https://github.com/HypothesisTester/DSA/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/HypothesisTester/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HypothesisTester/DSA/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions
 | [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HypothesisTester/DSA/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -934,6 +938,7 @@ A collection of LeetCode questions
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HypothesisTester/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/HypothesisTester/DSA/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HypothesisTester/DSA/tree/master/0817-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
