@@ -69,6 +69,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/HypothesisTester/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HypothesisTester/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions
 | ------- |
 | [0043-multiply-strings](https://github.com/HypothesisTester/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/HypothesisTester/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/HypothesisTester/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/HypothesisTester/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/HypothesisTester/DSA/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/HypothesisTester/DSA/tree/master/0898-transpose-matrix) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions
 | [0227-basic-calculator-ii](https://github.com/HypothesisTester/DSA/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/HypothesisTester/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HypothesisTester/DSA/tree/master/0343-integer-break) |
+| [0415-add-strings](https://github.com/HypothesisTester/DSA/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HypothesisTester/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
