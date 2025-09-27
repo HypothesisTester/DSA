@@ -82,6 +82,7 @@ A collection of LeetCode questions
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/HypothesisTester/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/HypothesisTester/DSA/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HypothesisTester/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HypothesisTester/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/HypothesisTester/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HypothesisTester/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HypothesisTester/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions
 | [0876-hand-of-straights](https://github.com/HypothesisTester/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/HypothesisTester/DSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HypothesisTester/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/HypothesisTester/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
