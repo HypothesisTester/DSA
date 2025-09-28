@@ -119,6 +119,7 @@ A collection of LeetCode questions
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HypothesisTester/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HypothesisTester/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HypothesisTester/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/HypothesisTester/DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions
 | [1184-car-pooling](https://github.com/HypothesisTester/DSA/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/HypothesisTester/DSA/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HypothesisTester/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/HypothesisTester/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/HypothesisTester/DSA/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/HypothesisTester/DSA/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HypothesisTester/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Trie
 |  |
 | ------- |
