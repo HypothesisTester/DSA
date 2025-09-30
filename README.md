@@ -683,6 +683,7 @@ A collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
+| [0813-all-paths-from-source-to-target](https://github.com/HypothesisTester/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HypothesisTester/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
@@ -758,6 +759,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/HypothesisTester/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HypothesisTester/DSA/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/HypothesisTester/DSA/tree/master/0753-open-the-lock) |
+| [0813-all-paths-from-source-to-target](https://github.com/HypothesisTester/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/HypothesisTester/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HypothesisTester/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/HypothesisTester/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HypothesisTester/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -829,6 +832,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HypothesisTester/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/HypothesisTester/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HypothesisTester/DSA/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/HypothesisTester/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
