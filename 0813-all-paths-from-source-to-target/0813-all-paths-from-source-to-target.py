@@ -1,9 +1,10 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         self.graph = collections.defaultdict(list)
+
         for i, edges in enumerate(graph):
             self.graph[i] = edges
-
+            
         res = []
 
         def dfs(cur_path, cur_node):
@@ -14,9 +15,6 @@ class Solution:
                 cur_path.append(connection)
                 dfs(cur_path, connection)
                 cur_path.pop()
-
+            
         dfs([0], 0)
         return res
-
-# Time: O(2^N * N) 
-# Space: O(N)
