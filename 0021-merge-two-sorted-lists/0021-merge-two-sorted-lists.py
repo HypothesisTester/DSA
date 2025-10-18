@@ -24,4 +24,4 @@ class Solution:
         return dummy.next
 
 # Time: O(M+N)
-# Space: O(M+N)
+# Space: O(1)
