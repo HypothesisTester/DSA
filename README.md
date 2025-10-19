@@ -94,6 +94,7 @@ A collection of LeetCode questions
 | [1250-longest-common-subsequence](https://github.com/HypothesisTester/DSA/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/HypothesisTester/DSA/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HypothesisTester/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/HypothesisTester/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1894-merge-strings-alternately](https://github.com/HypothesisTester/DSA/tree/master/1894-merge-strings-alternately) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/HypothesisTester/DSA/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/HypothesisTester/DSA/tree/master/1039-find-the-town-judge) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/HypothesisTester/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2139-detect-squares](https://github.com/HypothesisTester/DSA/tree/master/2139-detect-squares) |
 | [2755-extra-characters-in-a-string](https://github.com/HypothesisTester/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
@@ -862,6 +864,7 @@ A collection of LeetCode questions
 | [0658-find-k-closest-elements](https://github.com/HypothesisTester/DSA/tree/master/0658-find-k-closest-elements) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/HypothesisTester/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/HypothesisTester/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HypothesisTester/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HypothesisTester/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/HypothesisTester/DSA/tree/master/2001-jump-game-vii) |
