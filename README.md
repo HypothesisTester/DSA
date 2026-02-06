@@ -987,4 +987,8 @@ A collection of LeetCode questions
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/HypothesisTester/DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/HypothesisTester/DSA/tree/master/1522-stone-game-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HypothesisTester/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
