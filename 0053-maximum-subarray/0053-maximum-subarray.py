@@ -2,13 +2,14 @@
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maxSum, curSum = nums[0], 0
-        for num in nums:
-            if curSum < 0:
-                curSum = 0                   # reset if negative
-            curSum += num                   # extend current subarray
-            maxSum = max(maxSum, curSum)   # track maximum
-        return maxSum
+        maxSum = curSum = float("-inf")
 
-# Time: O(n)
-# Space: O(1)
+        for num in nums:
+            if num > curSum and curSum < 0:
+                curSum = num
+            else:
+                curSum += num
+            
+            maxSum = max(maxSum, curSum)
+
+        return maxSum
