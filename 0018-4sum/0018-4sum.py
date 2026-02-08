@@ -1,35 +1,37 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
-        res, quad = [], []
 
         def kSum(k, start, target):
-            if k != 2:
-                for i in range(start, len(nums) - k + 1):
-                    if i > start and nums[i] == nums[i - 1]:
-                        continue
-                    quad.append(nums[i])
-                    kSum(k - 1, i + 1, target - nums[i])
-                    quad.pop()
-                return
+            res = []
 
-            # base case, two sum II
-            l, r = start, len(nums) - 1
-            while l < r:
-                if nums[l] + nums[r] < target:
-                    l += 1
-                elif nums[l] + nums[r] > target:
-                    r -= 1
-                else:
-                    res.append(quad + [nums[l], nums[r]])
-                    l += 1
-                    while l < r and nums[l] == nums[l - 1]:
+            # base case k = 2
+            if k == 2:
+                l, r = start, len(nums) - 1
+                while l < r:
+                    curr_sum = nums[l] + nums[r]
+                    if curr_sum == target:
+                        res.append([nums[l], nums[r]])
                         l += 1
+                        r -= 1
+                        while l < r and nums[l] == nums[l-1]: # skip duplicates
+                            l += 1
+                    elif curr_sum < target:
+                        l += 1
+                    else:
+                        r -= 1
+                return res
 
-        kSum(4, 0, target)
-        return res
+            for i in range(start, len(nums) - k + 1):
+                if i > start and nums[i] == nums[i-1]:
+                    continue
 
-# Time:  O(n³)      — fixing k=4 gives triple loops plus two-pointer sweep
-# Space: O(n)       — auxiliary for sorting (Timsort uses O(n) worst-case)
-#       + O(1)      — recursion depth is constant (k=4)
-#       + O(m)      — to hold m result quadruplets
+                sub_results = kSum(k-1, i + 1, target - nums[i])
+
+                for subset in sub_results:
+                    res.append([nums[i]] + subset)
+
+            return res
+
+        return kSum(4, 0, target)
+        
