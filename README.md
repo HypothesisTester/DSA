@@ -268,6 +268,7 @@ A collection of LeetCode questions
 | [0907-koko-eating-bananas](https://github.com/HypothesisTester/DSA/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/HypothesisTester/DSA/tree/master/0917-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HypothesisTester/DSA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/HypothesisTester/DSA/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/HypothesisTester/DSA/tree/master/0860-design-circular-queue) |
+| [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HypothesisTester/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Math
@@ -444,6 +446,7 @@ A collection of LeetCode questions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/HypothesisTester/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/HypothesisTester/DSA/tree/master/0909-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/HypothesisTester/DSA/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/HypothesisTester/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/HypothesisTester/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/HypothesisTester/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -856,6 +860,7 @@ A collection of LeetCode questions
 ## Monotonic Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
