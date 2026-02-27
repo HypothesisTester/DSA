@@ -1,15 +1,36 @@
-# Soltion: DP
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        res = max(nums)
-        curMin, curMax = 1, 1
+        if not nums:
+            return 0
 
-        for n in nums:
-            tmp = curMax * n
-            curMax = max(n * curMax, n * curMin, n)
-            curMin = min(tmp, n * curMin, n)
-            res = max(res, curMax)
-        return res
+        max_prod = max(nums)
 
-# Time: O(N)
-# Space: O(1)
+        islands = []
+        current_island = []
+        for x in nums:
+            if x == 0:
+                if current_island:
+                    islands.append(current_island)
+                current_island = []
+            else:
+                current_island.append(x)
+        if current_island:
+            islands.append(current_island)
+        
+        for arr in islands:
+            curr = 1
+
+            for x in arr:
+                curr *= x
+                max_prod = max(max_prod, curr)
+
+            curr = 1
+            for x in reversed(arr):
+                curr *= x
+                max_prod = max(max_prod, curr)
+
+        return max_prod
+
+            
+
+        
