@@ -16,6 +16,7 @@ class Solution:
             sign = - 1
 
         parsed = 0
+        
         while i < len(s):
             cur = s[i]
             if not cur.isdigit():
@@ -35,3 +36,5 @@ class Solution:
             return parsed
         
         
+# T: O(N)
+# S: O(1)
