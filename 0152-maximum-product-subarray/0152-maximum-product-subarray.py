@@ -1,36 +1,18 @@
+# Kadanes Algo
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+        res = cur_max = cur_min = nums[0]
 
-        max_prod = max(nums)
+        for x in nums[1:]:
+            if x < 0:
+                cur_max, cur_min = cur_min, cur_max
 
-        islands = []
-        current_island = []
-        for x in nums:
-            if x == 0:
-                if current_island:
-                    islands.append(current_island)
-                current_island = []
-            else:
-                current_island.append(x)
-        if current_island:
-            islands.append(current_island)
+            cur_max = max(x, cur_max * x)
+            cur_min = min(x, cur_min * x)
+            res = max(res, cur_max)
         
-        for arr in islands:
-            curr = 1
+        return res
 
-            for x in arr:
-                curr *= x
-                max_prod = max(max_prod, curr)
-
-            curr = 1
-            for x in reversed(arr):
-                curr *= x
-                max_prod = max(max_prod, curr)
-
-        return max_prod
-
-            
-
+# T: O(N)
+# S: O(1)
         
