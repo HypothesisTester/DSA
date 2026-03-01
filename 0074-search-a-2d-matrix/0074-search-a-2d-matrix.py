@@ -3,23 +3,41 @@ class Solution:
         if not matrix or not matrix[0]:
             return False
 
-        m, n = len(matrix), len(matrix[0])   # m = #rows, n = #cols
-        left, right = 0, m * n - 1            # search over m*n virtual indices
+        rows = len(matrix)
+        cols = len(matrix[0])
 
-        while left <= right:
-            mid = (left + right) // 2
-            row = mid // n                     # which row in 2D
-            col = mid % n                      # which col in that row
-            val = matrix[row][col]
+        top = 0
+        bottom = rows - 1
+        row_index = -1
 
-            if val == target:
-                return True
-            elif val < target:
-                left = mid + 1                # search higher indices
+        while top <= bottom:
+            mid_row = top + (bottom - top) // 2
+            if target < matrix[mid_row][0]:
+                bottom = mid_row - 1
+            elif target > matrix[mid_row][cols - 1]:
+                top = mid_row + 1
             else:
-                right = mid - 1               # search lower indices
+                row_index = mid_row
+                break
+
+        if row_index == -1:
+            return False
+
+        low = 0
+        high = cols - 1
+        while low <= high:
+            mid = low + (high - low) // 2
+            if matrix[row_index][mid] == target:
+                return True
+            elif matrix[row_index][mid] < target:
+                low = mid + 1
+            else:
+                high = mid - 1
 
         return False
 
-# Time: O(log(m * n))
-# Space: O(1)
+            
+
+
+
+            
