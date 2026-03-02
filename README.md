@@ -164,6 +164,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/HypothesisTester/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HypothesisTester/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HypothesisTester/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HypothesisTester/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HypothesisTester/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HypothesisTester/DSA/tree/master/0027-remove-element) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/HypothesisTester/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HypothesisTester/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HypothesisTester/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HypothesisTester/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HypothesisTester/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HypothesisTester/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HypothesisTester/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HypothesisTester/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HypothesisTester/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HypothesisTester/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HypothesisTester/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HypothesisTester/DSA/tree/master/0049-group-anagrams) |
