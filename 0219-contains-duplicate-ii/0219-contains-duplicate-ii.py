@@ -1,17 +1,11 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        dict = {}
+        seen = {}
 
-        for index_j in range(len(nums)):
-            numj = nums[index_j]
-            if numj in dict:
-                index_i = dict[numj]
+        for i, num in enumerate(nums):
+            if num in seen and abs(i - seen[num]) <= k:
+                return True
 
-                if abs(index_i - index_j) <= k:
-                    return True
+            seen[num] = i
 
-                dict[numj] = index_j
-            
-            else:
-                dict[numj] = index_j
         return False
