@@ -14,8 +14,7 @@ class Solution:
                 return False
 
             return (left.val == right.val and
-            check(left.left, right.right) and
-            check(left.right, right.left))
-        
+                    check(left.left,right.right) and
+                    check(left.right, right.left))
+
         return check(root.left, root.right)
-        
