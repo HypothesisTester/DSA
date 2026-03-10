@@ -9,23 +9,23 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy = {None: None}    # map original nodes → their copies
+        if not head:
+            return None
 
-        # 1) create all nodes (without pointers)
-        cur = head
-        while cur:
-            copy = Node(cur.val)
-            oldToCopy[cur] = copy
-            cur = cur.next
+        curr = head
+        old_to_new = {}
+        while curr:
+            old_to_new[curr] = Node(curr.val)
+            curr = curr.next
+        
+        curr = head 
+        while curr:
+            new_node = old_to_new[curr]
+            new_node.next = old_to_new[curr.next] if curr.next else None
+            new_node.random = old_to_new[curr.random] if curr.random else None
+            curr = curr.next
+        
+        return old_to_new[head]
 
-        # 2) assign next & random pointers
-        cur = head
-        while cur:
-            copy = oldToCopy[cur]
-            copy.next = oldToCopy[cur.next]
-            copy.random = oldToCopy[cur.random]
-            cur = cur.next
-        return oldToCopy[head]
-
-# Time: O(n)
-# Space: O(n)
+        # T: O(N)
+        # S: O(N)
