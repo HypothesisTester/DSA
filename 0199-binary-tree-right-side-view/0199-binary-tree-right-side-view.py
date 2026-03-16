@@ -4,25 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []                         # no nodes → nothing to see
+        max_level = float("-inf")
+        arr = []
 
-        res = []
-        q = collections.deque([root])
+        def dfs(node, curr_level):
+            nonlocal max_level
+            if not node:
+                return
+            
+            if curr_level > max_level:
+                arr.append(node.val)
 
-        while q:
-            level_size = len(q)
-            res.append(q[0].val)              # first in queue is the rightmost of this level
-            for _ in range(level_size):
-                node = q.popleft()
-                # enqueue children, right first
-                if node.right:
-                    q.append(node.right)
-                if node.left:
-                    q.append(node.left)
-        return res
+            max_level = max(max_level, curr_level)
 
-# Time: O(n), Space: O(n)
+            dfs(node.right, curr_level + 1)
+
+            dfs(node.left, curr_level + 1)
+
+        dfs(root, 0)
+        
+        return arr
