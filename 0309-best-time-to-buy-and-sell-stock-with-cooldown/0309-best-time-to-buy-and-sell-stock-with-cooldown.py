@@ -1,31 +1,22 @@
-# Solution: Dynamic Programming (Top-Down)
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # State: Buying or Selling?
-        # If Buy -> i + 1
-        # If Sell -> i + 2
 
-        dp = {} # key=(i, buying) val=max_profit
+        dp = {} # key=(i, buying) val = max_profit
 
-        def dfs(i, canbuy):
+        def dfs(i,buying):
             if i >= len(prices):
                 return 0
-            if (i, canbuy) in dp:
-                return dp[(i, canbuy)]
+            if (i, buying) in dp:
+                return dp[(i, buying)]
             
-            if canbuy:
-                buy = dfs(i + 1, not canbuy) - prices[i]
-                cooldown = dfs(i + 1, canbuy)
-                dp[(i, canbuy)] = max(buy, cooldown)
-            
-
+            if buying:
+                buy = dfs(i + 1, not buying) - prices[i]
+                cooldown = dfs(i + 1, buying)
+                dp[(i, buying)] = max(buy, cooldown)
             else:
-                sell = dfs(i + 2, not canbuy) + prices[i]
-                cooldown = dfs(i + 1, canbuy)
-                dp[(i, canbuy)] = max(sell, cooldown)
-            return dp[(i, canbuy)]
-
+                sell = dfs(i + 2, not buying) + prices[i]
+                cooldown = dfs( i + 1, buying)
+                dp[(i, buying)] = max(sell, cooldown)
+            return dp[(i, buying)]
         return dfs(0, True)
-
-# Time: O(1)
-# Space: O(1)
+        
