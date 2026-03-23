@@ -75,6 +75,7 @@ A collection of LeetCode questions
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/HypothesisTester/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/HypothesisTester/DSA/tree/master/0415-add-strings) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/HypothesisTester/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HypothesisTester/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HypothesisTester/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/HypothesisTester/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HypothesisTester/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/HypothesisTester/DSA/tree/master/0337-house-robber-iii) |
@@ -836,6 +840,7 @@ A collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/HypothesisTester/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/HypothesisTester/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/HypothesisTester/DSA/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
 | [0473-matchsticks-to-square](https://github.com/HypothesisTester/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HypothesisTester/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HypothesisTester/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
