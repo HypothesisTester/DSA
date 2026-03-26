@@ -1,4 +1,3 @@
-# Solution 1: Iteration
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
@@ -19,24 +18,3 @@ class Solution:
 
 # Time: O(N)
 # Space: O(N)
-
-"""
-# Solution 2: DFS
-class Solution:
-    def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        res = []
-
-        def postorder(node):
-            if not node:
-                return
-            
-            postorder(node.left)
-            postorder(node.right)
-            res.append(node.val)
-        
-        postorder(root)
-        return res
-
-# Time: O(N)
-# Space: O(N)
-"""
