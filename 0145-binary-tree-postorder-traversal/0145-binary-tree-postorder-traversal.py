@@ -1,20 +1,17 @@
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        res = []
-        stack = []
-        cur = root
+        if not root:
+            return []
+        
+        output = []
+        def dfs(node):
+            nonlocal output
+            if not node:
+                return
 
-        while cur or stack:
-            if cur:
-                res.append(cur.val)
-                stack.append(cur)
-                cur = cur.right
-            else:
-                cur = stack.pop()
-                cur = cur.left
-
-        res.reverse()
-        return res
-
-# Time: O(N)
-# Space: O(N)
+            dfs(node.left)
+            dfs(node.right)
+            output.append(node.val)
+        
+        dfs(root)
+        return output
