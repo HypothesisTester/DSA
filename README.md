@@ -145,6 +145,7 @@ A collection of LeetCode questions
 | [0208-implement-trie-prefix-tree](https://github.com/HypothesisTester/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HypothesisTester/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/HypothesisTester/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/HypothesisTester/DSA/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/HypothesisTester/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HypothesisTester/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HypothesisTester/DSA/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/HypothesisTester/DSA/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/HypothesisTester/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HypothesisTester/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -1054,4 +1056,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/HypothesisTester/DSA/tree/master/0133-clone-graph) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/HypothesisTester/DSA/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
