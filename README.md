@@ -79,6 +79,7 @@ A collection of LeetCode questions
 | [0227-basic-calculator-ii](https://github.com/HypothesisTester/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HypothesisTester/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/HypothesisTester/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HypothesisTester/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/HypothesisTester/DSA/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/HypothesisTester/DSA/tree/master/0415-add-strings) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/HypothesisTester/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HypothesisTester/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HypothesisTester/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/HypothesisTester/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/HypothesisTester/DSA/tree/master/0424-longest-repeating-character-replacement) |
