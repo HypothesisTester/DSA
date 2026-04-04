@@ -153,6 +153,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/HypothesisTester/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/HypothesisTester/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/HypothesisTester/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/HypothesisTester/DSA/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/HypothesisTester/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/HypothesisTester/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HypothesisTester/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/HypothesisTester/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HypothesisTester/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HypothesisTester/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HypothesisTester/DSA/tree/master/0322-coin-change) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions
 | [0190-reverse-bits](https://github.com/HypothesisTester/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HypothesisTester/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HypothesisTester/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/HypothesisTester/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/HypothesisTester/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/HypothesisTester/DSA/tree/master/0772-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HypothesisTester/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HypothesisTester/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/HypothesisTester/DSA/tree/master/0729-my-calendar-i) |
 ## Game Theory
 |  |
@@ -1073,4 +1077,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/HypothesisTester/DSA/tree/master/0284-peeking-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/HypothesisTester/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
